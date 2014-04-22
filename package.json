@@ -1,0 +1,19 @@
+{
+  "name": "crossover",
+  "version": "0.0.0",
+  "description": "crossover =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drKnoxy/crossover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drKnoxy/crossover/issues"
+  },
+  "homepage": "https://github.com/drKnoxy/crossover"
+}
